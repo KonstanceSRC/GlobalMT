@@ -71,7 +71,7 @@ Global MT is a Python-based multi-tool that provides a secure and efficient way 
 <details>
   <summary>Click to expand</summary>
   
-  For any issues or feature requests, please open an issue on GitHub or contact the developer at your-email@example.com.
+  For any issues or feature requests, please open an issue on GitHub or contact the developer via discord (fivejoints).
   
 </details>
 
