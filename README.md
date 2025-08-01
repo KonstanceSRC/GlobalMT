@@ -1,7 +1,6 @@
 # Global Multi-Tool (GMT)
 
-![GMT Screenshot](assets/gmt_screenshot.png)
-_Capture a screenshot of your GMT tool running and place it in the `assets` folder!_
+![GMT Screenshot](assets/standard.gif)
 
 GMT (Global Multi-Tool) is a versatile and user-friendly command-line utility designed to offer quick access to essential system information and personalized console interactions. Built with Python, GMT allows you to customize your terminal experience, get a concise overview of your network, and more, all through a simple, interactive command-line interface.
 
